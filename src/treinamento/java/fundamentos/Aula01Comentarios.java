@@ -1,4 +1,4 @@
-package treinamento.fundamentos;
+package treinamento.java.fundamentos;
 
 /*Comentário de classes e métodos*/
 public class Aula01Comentarios {

@@ -1,4 +1,4 @@
-package treinamento.fundamentos;
+package treinamento.java.fundamentos;
 
 public class Aula02Variaveis {
     public static void main(String[] args) {

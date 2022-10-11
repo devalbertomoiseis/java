@@ -1,4 +1,4 @@
-package treinamento.fundamentos;
+package treinamento.java.fundamentos;
 public class Aula03OperadoresAritimeticos {
     public static void main(String[] args) {
         int valor1 = 10;

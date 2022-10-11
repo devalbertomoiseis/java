@@ -1,4 +1,4 @@
-package treinamento.fundamentos;
+package treinamento.java.fundamentos;
 public class Aula05Incremento {
     public static void main(String[] args) {
         int valor = 10;
